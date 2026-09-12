@@ -15,6 +15,19 @@ in my role as a Program Assistant with the University of South Carolina.
 - Microsoft Excel
 - Program performance monitoring
 
+## Examples Included
+
+This portfolio includes examples of Power BI reporting developed in support
+of program operations and performance monitoring, including:
+
+- Website analytics and engagement reporting
+- County-level incident analysis
+- Regional and year-over-year trend analysis
+- Quarterly onboarding training registration reporting
+- Training attendance analysis
+- Program performance visualization
+- Narrative interpretation of dashboard findings
+
 ## Projects
 
 ### Handle With Care – South Carolina Program
