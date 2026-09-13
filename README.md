@@ -28,6 +28,38 @@ of program operations and performance monitoring, including:
 - Program performance visualization
 - Narrative interpretation of dashboard findings
 
+## Dashboard Portfolio Preview
+
+### Employee Mileage Reimbursement Reporting
+![Employee Mileage Reimbursement Dashboard](images/employee-mileage-reporting.png)
+
+Tracks employee mileage, monthly travel activity, and reimbursement amounts.
+
+### Program Purchases Reporting
+![Program Purchases Dashboard](images/program-purchases-reporting.png)
+
+Summarizes purchases by vendor, category, funding source, and reporting year.
+
+### HWC Notifications Reporting
+![HWC Notifications Dashboard](images/hwc-notifications-reporting.png)
+
+Provides county, regional, and year-level views of Handle With Care notifications and program status.
+
+### Quarterly Training Reporting
+![Quarterly Training Dashboard](images/hwc-quarterly-training-reporting.png)
+
+Analyzes training registrations by county, job title, and training month.
+
+### Regional Attendance Reporting
+![Regional Attendance Dashboard](images/regional-attendance.png)
+
+Displays training attendance across South Carolina regions and counties.
+
+### Website Analytics
+![Website Analytics Dashboard](images/website-analytics.png)
+
+Visualizes website traffic and page-level engagement to support program performance monitoring.
+
 ## Projects
 
 ### Handle With Care – South Carolina Program
